@@ -17,3 +17,5 @@ def multiplica_por_2d_dados(df: pd.DataFrame) -> pd.DataFrame:
     return df*2
 # Se desejar adicionar outras funções ou utilitários relacionados à limpeza de dados, 
 # você pode continuar a expandir este módulo testes 
+
+kkkkkkkkkk
